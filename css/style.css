@@ -98,7 +98,7 @@ header{
 }
 
 .list-group > .active{
-	background-color: #435fcc;
+	background-color: #435fcc !important;
 }
 
 .progress-bar{
@@ -106,6 +106,13 @@ header{
 }
 
 .panel-heading{
-	background-color: #435fcc;
+	background-color: #435fcc !important;
 	color: white;
+}
+
+.footer{
+	background-color: #1b1b1c;
+	margin-top: 50px;
+	color: white;
+	padding : 25px;
 }
